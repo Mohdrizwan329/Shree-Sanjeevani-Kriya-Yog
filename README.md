@@ -1,4 +1,4 @@
-# shreesanjeevanikriyayog
+# Shree Sanjeevani Kriya Yog
 
 A new Flutter project.
 
